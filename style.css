@@ -11,3 +11,8 @@ img {
 .headline {
     text-align: center;
 }
+.paragraph {
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+}
