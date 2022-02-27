@@ -19,3 +19,11 @@ img {
 body {
     background-color: plum;
 }
+h1 {
+    text-decoration: underline;
+}
+
+.hobby {
+    font-style: italic;
+}
+
