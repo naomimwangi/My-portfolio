@@ -18,6 +18,11 @@ img {
 }
 body {
     background-color: plum;
+    width: 1100px;
+    height: 600px;
+    border: 15px solid black;
+    padding: 50px;
+    margin: 20px;
 }
 h1 {
     text-decoration: underline;
