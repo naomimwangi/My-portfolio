@@ -16,3 +16,6 @@ img {
     font-style: italic;
     text-decoration: underline;
 }
+body {
+    background-color: plum;
+}
