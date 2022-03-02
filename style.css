@@ -26,4 +26,6 @@ h1 {
 .hobby {
     font-style: italic;
 }
-
+.navigation {
+    text-align: right;
+}
